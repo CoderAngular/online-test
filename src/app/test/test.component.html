@@ -1,0 +1,58 @@
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item active" aria-current="page"><a routerLink="">Back to Home</a></li>
+    </ol>
+  </nav>
+
+<div><b>Note : You are required to attempt all the questions to submit.</b></div><br/>
+  <form [formGroup]="form" (ngSubmit)="submitTest()">
+
+<!--Until the data is not available show else block for Loading...-->
+<!-- <ng-container *ngIf="questionsArray.length>0; then ifBlock else elseBlock"></ng-container>
+<ng-template #ifBlock>
+    <div class="row gx-5" *ngFor="let q of questionsArray; let i=index">
+        <div class="col">
+            <div class="p-3 border bg-light">{{i+1}}. {{q.question}}
+                <div class="code-snippet" *ngIf="q.codeSnippet">
+                    {{q.codeSnippet}}
+                </div>
+            </div>
+        
+            <ng-container class="form-group" *ngFor="let option of q.options">
+                <div class="margin-left">
+                    <input type="radio" value="{{option}}" name="{{q._id}}" formControlName="{{q._id}}"/>
+                    <span class="margin-left"></span>
+                    <label for="{{option}}">{{option}}</label><br/>
+                </div>
+            </ng-container>
+            <div class="margin-bottom"></div>
+        </div>
+    </div>
+</ng-template>
+<ng-template #elseBlock>
+    <h2>Loading...</h2>
+</ng-template> -->
+
+<!--This template will be loaded after the data is available using resolve route-->
+    <div class="row gx-5" *ngFor="let q of questionsArray; let i=index">
+        <div class="col">
+            <div class="p-3 border bg-light">{{i+1}}. {{q.question}}
+                <div class="code-snippet" *ngIf="q.codeSnippet">
+                    {{q.codeSnippet}}
+                </div>
+            </div>
+        
+            <ng-container class="form-group" *ngFor="let option of q.options">
+                <div class="margin-left">
+                    <input type="radio" value="{{option}}" name="{{q._id}}" formControlName="{{q._id}}"/>
+                    <span class="margin-left"></span>
+                    <label for="{{option}}">{{option}}</label><br/>
+                </div>
+            </ng-container>
+            <div class="margin-bottom"></div>
+        </div>
+    </div>
+
+<button type="submit" class="btn btn-primary btn-lg">Submit</button>
+
+</form>

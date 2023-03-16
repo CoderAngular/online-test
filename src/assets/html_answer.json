@@ -1,0 +1,42 @@
+{
+    "data":[{
+      "_id": "Q_1",
+      "answer":"HyperText Markup Language."
+    },
+    {
+        "_id": "Q_2",
+        "answer":"6"
+    },
+    {
+      "_id": "Q_3",
+      "answer":"h6"
+    },
+    {
+        "_id": "Q_4",
+        "answer":"Ordered, Unordered Lists."
+    },
+    {
+      "_id": "Q_5",
+      "answer":"<ol>"
+    },
+    {
+        "_id": "Q_6",
+        "answer":".html"
+    },
+    {
+      "_id": "Q_7",
+      "answer":"<>"
+    },
+    {
+        "_id": "Q_8",
+        "answer":"It converts the text within it to bold font."
+    },
+    {
+      "_id": "Q_9",
+      "answer":"HTML uses tags defined within the language."
+    },
+    {
+        "_id": "Q_10",
+        "answer":"<pre>"
+    }]
+  }

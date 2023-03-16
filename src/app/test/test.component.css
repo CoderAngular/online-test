@@ -1,0 +1,15 @@
+.margin-bottom{
+    margin-bottom:20px;
+}
+.margin-left{
+    margin-left:20px;
+}
+.code-snippet{
+    width: 70%;
+    height: auto;
+    background-color: yellow;
+    padding: 5px;
+}
+.breadcrumb-item a {
+    cursor: pointer;
+}

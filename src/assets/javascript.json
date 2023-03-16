@@ -1,0 +1,105 @@
+{
+    "data":[{
+      "_id": "Q_1",
+      "question":"Javascript is an _______ language?",
+      "options":[
+        "Object-Oriented",
+        "Object-Based",
+        "Procedural",
+        "None of the above."
+      ]
+    },
+    {
+        "_id": "Q_2",
+        "question":"Which of the following keywords is used to define a variable in Javascript?",
+        "options":[
+          "var",
+          "let",
+          "Both A and B",
+          "None of the above."
+        ]
+    },
+    {
+        "_id": "Q_3",
+        "question":"Which of the following methods is used to access HTML elements using Javascript?",
+        "options":[
+          "getElementById",
+          "getElementsByClassName",
+          "Both A and B",
+          "None of the above."
+        ]
+      },
+      {
+          "_id": "Q_4",
+          "question":"Upon encountering empty statements, what does the Javascript Interpreter do?",
+          "options":[
+            "Throws an error",
+            "Ignores the statement",
+            "Giving a warning",
+            "None of the above."
+          ]
+      },
+      {
+        "_id": "Q_5",
+        "question":"Which of the following methods can be used to display data in some form using Javascript?",
+        "options":[
+          "document.write()",
+          "console.log()",
+          "window.alert()",
+          "All of the above."
+        ]
+      },
+      {
+          "_id": "Q_6",
+          "question":"How can a datatype be declared to be a constant type?",
+          "options":[
+            "const",
+            "let",
+            "var",
+            "constant"
+          ]
+      },
+      {
+          "_id": "Q_7",
+          "question":"What will be the output of the following code snippet?",
+          "codeSnippet":"<script type='text/javascript'>a = 5 + '9'; document.write(a);</script>",
+          "options":[
+            "Compilation error",
+            "14",
+            "Runtime error",
+            "59"
+          ]
+        },
+        {
+            "_id": "Q_8",
+            "question":"What will be the output of the following code snippet?",
+            "codeSnippet":"<script type='text/javascript'>var a = 'Scaler'; var result = a.substring(2, 4); document.write(result);</script>",
+            "options":[
+              "al",
+              "ale",
+              "cal",
+              "caler"
+            ]
+        },
+        {
+            "_id": "Q_9",
+            "question":"What will be the output of the following code snippet?",
+            "codeSnippet":"<script type='text/javascript'>var x=12; var y=8; var res=eval('x+y'); document.write(res);</script>",
+            "options":[
+              "20",
+              "x+y",
+              "128",
+              "None of the above."
+            ]
+          },
+          {
+              "_id": "Q_10",
+              "question":"When the switch statement matches the expression with the given labels, how is the comparison done?",
+              "options":[
+                "Both the datatype and the result of the expression are compared.",
+                "Only the datatype of the expression is compared.",
+                "Only the value of the expression is compared.",
+                "None of the above."
+              ]
+          }]
+}

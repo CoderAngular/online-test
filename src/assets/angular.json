@@ -1,0 +1,100 @@
+{
+    "data":[{
+      "_id": "Q_1",
+      "question":"AngularJS is a ____",
+      "options":[
+        "Java framework",
+        "JavaScript framework",
+        "HTML framework",
+        "SQL framework"
+      ]
+    },
+    {
+      "_id": "Q_2",
+      "question":"AngularJS is perfect for?",
+      "options":[
+        "MPAs",
+        "DPAs",
+        "CPAs",
+        "SPAs"
+      ]
+    },
+    {
+        "_id": "Q_3",
+        "question":"Among the following, on which architectural pattern is AngularJS based?",
+        "options":[
+          "Decorator pattern",
+          "Observer pattern",
+          "MVVM pattern",
+          "MVC pattern"
+        ]
+      },
+      {
+        "_id": "Q_4",
+        "question":"State whether true or false:  AngularJS provides reusable components",
+        "options":[
+          "True",
+          "False"
+        ]
+      },
+      {
+        "_id": "Q_5",
+        "question":"Choose the correct syntax for writing AngularJS expression.",
+        "options":[
+          "[expression]",
+          "{{expression}}",
+          "{{{expression}}}",
+          "{expression}"
+        ]
+      },
+      {
+        "_id": "Q_6",
+        "question":"Choose the reactor which is used to bind the application data to the HTML view in AngularJS.",
+        "options":[
+          "ng-bind directive",
+          "ng-model directive",
+          "ng-init directive",
+          "ng-app directive"
+        ]
+      },
+      {
+        "_id": "Q_7",
+        "question":"Choose the correct statement about the lowercase filter.",
+        "options":[
+          "it is a function that takes text as input.",
+          "the lowercase filter converts a text to lowercase text.",
+          "both a and b.",
+          "None of the above."
+        ]
+      },
+      {
+          "_id": "Q_8",
+          "question":"Choose the advantage of Angular JS among the following.",
+          "options":[
+            "it provides reusable components.",
+            "it uses dependency injection and makes use of separation of concerns.",
+            "it is unit-testable.",
+            "All of the above."
+          ]
+        },
+        {
+          "_id": "Q_9",
+          "question":"The functionality of angular controllers in the application is",
+          "options":[
+            "an angular controller is used for displaying the data.",
+            "an angular controller is used for controlling the data.",
+            "both a and b",
+            "None of the above."
+          ]
+        },
+        {
+          "_id": "Q_10",
+          "question":"The syntax used to create a module in AngularJS is:",
+          "options":[
+            "module(“app”,[])",
+            "var myModule=angular.module();",
+            "var myModule = new Module();",
+            "None of the above."
+          ]
+        }]
+}

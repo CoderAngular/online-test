@@ -1,0 +1,102 @@
+{
+    "data":[{
+    "_id": "Q_1",
+    "question":"The full form of CSS is:",
+    "options":[
+      "Cascading Style Sheets",
+      "Coloured Special Sheets",
+      "Color and Style Sheets",
+      "None of the above."
+    ]
+  },
+  {
+    "_id": "Q_2",
+    "question":"How can we change the background color of an element?",
+    "options":[
+      "background-color",
+      "color",
+      "Both A and B",
+      "None of the above."
+    ]
+  },
+  {
+    "_id": "Q_3",
+    "question":"How can we change the text color of an element?",
+    "options":[
+      "background-color",
+      "color",
+      "Both A and B",
+      "None of the above."
+    ]
+  },
+  {
+    "_id": "Q_4",
+    "question":"In how many ways can CSS be written in?",
+    "options":[
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "_id": "Q_5",
+    "question":"What type of CSS is the following code snippet?[<h1 style='color:blue;'>A Blue Heading</h1>]",
+    "options":[
+      "Inline",
+      "Internal",
+      "External",
+      "None of the above."
+    ]
+  },
+  {
+    "_id": "Q_6",
+    "question":"What type of CSS is generally recommended for designing large web pages?",
+    "options":[
+      "Inline",
+      "Internal",
+      "External",
+      "None of the above."
+    ]
+  },
+  {
+    "_id": "Q_7",
+    "question":"Which HTML tag is used to declare internal CSS?",
+    "options":[
+      "<style>",
+      "<link>",
+      "<script>",
+      "None of the above."
+    ]
+  },
+  {
+    "_id": "Q_8",
+    "question":"How can we select an element with a specific ID in CSS?",
+    "options":[
+      "#",
+      ".",
+      "^",
+      "None of the above"
+    ]
+  },
+  {
+    "_id": "Q_9",
+    "question":"How can we select an element with a specific Class in CSS?",
+    "options":[
+      "#",
+      ".",
+      "^",
+      "None of the above"
+    ]
+  },
+  {
+    "_id": "Q_10",
+    "question":"How can we write comments in CSS?",
+    "options":[
+      "/* */",
+      "//",
+      "#",
+      "All of the above"
+    ]
+  }]
+}

@@ -1,0 +1,42 @@
+{
+    "data":[{
+      "_id": "Q_1",
+      "answer":"Cascading Style Sheets"
+    },
+    {
+        "_id": "Q_2",
+        "answer":"background-color"
+    },
+    {
+      "_id": "Q_3",
+      "answer":"color"
+    },
+    {
+        "_id": "Q_4",
+        "answer":"3"
+    },
+    {
+      "_id": "Q_5",
+      "answer":"Inline"
+    },
+    {
+        "_id": "Q_6",
+        "answer":"External"
+    },
+    {
+      "_id": "Q_7",
+      "answer":"<style>"
+    },
+    {
+        "_id": "Q_8",
+        "answer":"#"
+    },
+    {
+      "_id": "Q_9",
+      "answer":"."
+    },
+    {
+        "_id": "Q_10",
+        "answer":"/* */"
+    }]
+  }

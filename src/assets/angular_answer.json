@@ -1,0 +1,42 @@
+{
+    "data":[{
+      "_id": "Q_1",
+      "answer":"JavaScript framework"
+    },
+    {
+        "_id": "Q_2",
+        "answer":"SPAs"
+    },
+    {
+      "_id": "Q_3",
+      "answer":"MVVM pattern"
+    },
+    {
+        "_id": "Q_4",
+        "answer":"True"
+    },
+    {
+      "_id": "Q_5",
+      "answer":"{{expression}}"
+    },
+    {
+        "_id": "Q_6",
+        "answer":"ng-model directive"
+    },
+    {
+      "_id": "Q_7",
+      "answer":"the lowercase filter converts a text to lowercase text."
+    },
+    {
+        "_id": "Q_8",
+        "answer":"All of the above."
+    },
+    {
+      "_id": "Q_9",
+      "answer":"an angular controller is used for controlling the data."
+    },
+    {
+        "_id": "Q_10",
+        "answer":"module(“app”,[])"
+    }]
+  }

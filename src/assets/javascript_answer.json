@@ -1,0 +1,42 @@
+{
+    "data":[{
+      "_id": "Q_1",
+      "answer":"Object-Oriented"
+    },
+    {
+        "_id": "Q_2",
+        "answer":"Both A and B"
+    },
+    {
+      "_id": "Q_3",
+      "answer":"Both A and B"
+    },
+    {
+        "_id": "Q_4",
+        "answer":"Ignores the statement"
+    },
+    {
+      "_id": "Q_5",
+      "answer":"All of the above."
+    },
+    {
+        "_id": "Q_6",
+        "answer":"const"
+    },
+    {
+      "_id": "Q_7",
+      "answer":"59"
+    },
+    {
+        "_id": "Q_8",
+        "answer":"al"
+    },
+    {
+      "_id": "Q_9",
+      "answer":"20"
+    },
+    {
+        "_id": "Q_10",
+        "answer":"Both the datatype and the result of the expression are compared."
+    }]
+  }
